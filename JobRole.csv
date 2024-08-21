@@ -1,0 +1,46 @@
+﻿JobRole_ID,JobRole,JobLevel_ID
+JR001,Sales Executive,JL001
+JR002,Research Scientist,JL001
+JR003,Laboratory Technician,JL001
+JR004,Manufacturing Director,JL001
+JR005,Healthcare Representative,JL001
+JR006,Manager,JL001
+JR007,Sales Representative,JL001
+JR008,Human Resources,JL001
+JR009,Reseach Director,JL001
+JR010,Sales Executive,JL002
+JR011,Research Scientist,JL002
+JR012,Laboratory Technician,JL002
+JR013,Manufacturing Director,JL002
+JR014,Healthcare Representative,JL002
+JR015,Manager,JL002
+JR016,Sales Representative,JL002
+JR017,Human Resources,JL002
+JR018,Reseach Director,JL002
+JR019,Sales Executive,JL003
+JR020,Research Scientist,JL003
+JR021,Laboratory Technician,JL003
+JR022,Manufacturing Director,JL003
+JR023,Healthcare Representative,JL003
+JR024,Manager,JL003
+JR025,Sales Representative,JL003
+JR026,Human Resources,JL003
+JR027,Reseach Director,JL003
+JR028,Sales Executive,JL004
+JR029,Research Scientist,JL004
+JR030,Laboratory Technician,JL004
+JR031,Manufacturing Director,JL004
+JR032,Healthcare Representative,JL004
+JR033,Manager,JL004
+JR034,Sales Representative,JL004
+JR035,Human Resources,JL004
+JR036,Reseach Director,JL004
+JR037,Sales Executive,JL005
+JR038,Research Scientist,JL005
+JR039,Laboratory Technician,JL005
+JR040,Manufacturing Director,JL005
+JR041,Healthcare Representative,JL005
+JR042,Manager,JL005
+JR043,Sales Representative,JL005
+JR044,Human Resources,JL005
+JR045,Reseach Director,JL005

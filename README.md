@@ -1,4 +1,4 @@
-# Project-Delta
+# Project-TTI-SQL-Database
 Objective:
 The primary objective of this project was to transform disparate Excel datasets from a company into a unified, well-organized relational database using SQL. This consolidation aimed to enhance data management, improve data retrieval efficiency, and enable more effective data visualization, ultimately supporting better decision-making processes.
 

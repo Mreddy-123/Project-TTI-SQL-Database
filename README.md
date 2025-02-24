@@ -1,13 +1,13 @@
 # Project-TTI-SQL-Database
-Objective:
+Objective :-
 
 The primary objective of this project was to transform disparate Excel datasets from a company into a unified, well-organized relational database using SQL. This consolidation aimed to enhance data management, improve data retrieval efficiency, and enable more effective data visualization, ultimately supporting better decision-making processes.
 
-Background:
+Background :-
 
 The company had been storing large volumes of data across multiple Excel spreadsheets, resulting in fragmented information scattered across numerous files. This fragmentation led to challenges in data retrieval, analysis, and visualization. The need for a centralized database solution became evident to streamline data management and improve operational efficiency.
 
-Methodology:
+Methodology :-
 
 Data Collection:
 
@@ -50,12 +50,12 @@ The database was thoroughly tested to ensure data accuracy, consistency, and int
 Performance testing was also conducted to ensure that the database could handle large datasets efficiently without compromising retrieval speed.
 
 
-Documentation:
+Documentation :-
 
 Detailed documentation was prepared, covering the database schema, data importation process, SQL queries, and visualization techniques. This documentation served as a reference guide for future database management and enhancements.
 
 
-Challenges Faced:
+Challenges Faced :-
 
 
 Data Inconsistencies:
@@ -94,12 +94,12 @@ Scalability:
 The relational database design provided a scalable solution, capable of accommodating future data growth without compromising performance.
 
 
-Conclusion:
+Conclusion :-
 
 This project successfully transformed the company’s scattered Excel data into a robust, centralized SQL database. The consolidation not only improved data management and retrieval but also provided a solid foundation for enhanced data visualization and business analytics. The project demonstrated the value of transitioning from decentralized, spreadsheet-based data storage to a more structured and efficient SQL database system.
 
 
-Future Scope:
+Future Scope :-
 
 Further automation of data import processes.
 Integration of additional data sources into the SQL database.
